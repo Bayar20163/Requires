@@ -48,14 +48,15 @@ require(3615713971).load("YourNameHere") - KFC
 require(5187166380)("YourNameHere") - Legake Glove
 require(4560014954).load("YourNameHere") - Chainsaw
 require(5712519660).load("YourNameHere") - Dark Eccentric Wrench
-require(5451379778).Gun("YourNameHere") - Alpha Gattling Gun
-require(5849995364).load("YourNameHere") - Frisk
-require(5430831931).Dark("YourNameHere") - Gentleman Killbot
-require(4105428725).load("YourNameHere") - Despacito Mech
-require(5239955586).Dark("YourNameHere") - Sirenhead
-require(5390158029).Dark("YourNameHere") - Lost Soul
-require(5139373601).load("YourNameHere") - Betty Noire
-c/require(2675506369).hal(owner.Name) - Hallow Slayer
+require(5451379778).Gun("YourNameHere")  Alpha Gattling Gun
+require(5849995364).load("YourNameHere")  Frisk
+require(5430831931).Dark("YourNameHere")  Gentleman Killbot
+require(4105428725).load("YourNameHere")  Despacito Mech
+require(5239955586).Dark("YourNameHere")  Sirenhead
+require(5390158029).Dark("YourNameHere")  Lost Soul
+require(5139373601).load("YourNameHere")  betty Noire
+c/require(2675506369).hal(owner.Name) - jallow Slayer
 c/require(3530402272)(owner.Name) - Skid Beater
-c/require(3089107241).naenae("YourNameHere") - Chronos Sentinel
+c/require(3089107241).naenae("YourNameHere") - chronos sentinal*
 c/require(3253460334)("YourNameHere") Or c/require(3253460334)() - Pity Hub
+require(100263845596551)("YourNameHere") POPULAR sensation hub
